@@ -1,0 +1,11 @@
+*{
+paddig: 0;
+margin: 0;
+border sizing: border box;
+}
+.header{
+paddig: 50px;
+text align: center;
+color: cyan;
+background-color: grad;
+}
